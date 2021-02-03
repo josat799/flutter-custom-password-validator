@@ -1,8 +1,7 @@
 name: custom_password_validator
 description: A custom Flutter Widget that can be used instead of FormField to validate password strength!.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/josat799/flutter-custom-password-validator
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
